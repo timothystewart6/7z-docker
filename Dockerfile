@@ -1,6 +1,6 @@
 FROM google/debian:wheezy
 
-MAINTAINER "Daniel Whatmuff" <danielwhatmuff@gmail.com>
+MAINTAINER "Timothy Stewart" <timothystewart6@hotmail.com>
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends p7zip-full && \
